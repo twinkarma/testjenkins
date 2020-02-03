@@ -1,3 +1,3 @@
 #!/bin/bash
-
-exit 1
+echo "Generating output"
+exit 0
